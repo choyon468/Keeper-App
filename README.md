@@ -1,5 +1,5 @@
 # Keeper-App
-A web 3 (decentralized app) built on ICP that mimics Google's Keep. Its client-side is built using React, HTML, and CSS. Alao server-side is built using ICP's Motoko
+A web 3 (decentralized app) built on ICP that mimics Google's Keep. Its client-side is built using React, HTML, and CSS. Additionally, server-side is built using ICP's Motoko
 # Requirements: 
 1. Internet Computer development needs to be set up in your machine. 
 2. For this project specifically, required version of dfx is 0.9.3 and node version of 16.
