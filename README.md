@@ -12,5 +12,5 @@ A web 3 (decentralized app) built on ICP that mimics Google's Keep. Its client-s
 2. CD (Change Directory) over to that folder.
 3. Open up a terminal and run "dfx start".
 4. If it says running on a portal then open up a separate terminal and run "dfx deploy".
-5. Next run "install npm" to install all the required dependencies and node modules.
+5. Next run "npm install" to install all the required dependencies and node modules.
 6. Next run "npm start" to start the frontend and visit "http://localhost:8080/". 
